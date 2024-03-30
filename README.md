@@ -7,9 +7,9 @@ Web and Mobile Developer
 I've been learning software code for 3 years, after switching my career from hardware code. I discovered a passion for web 3 and mobile development.
 
 * 🌍  I'm based in Réunion island
-* 🖥️  See my portfolio at [My resume](http://johanlepinay.fr)
-* ✉️  You can contact me at [contact@yanipel.com](mailto:contact@yanipel.com)
-* 🚀  I'm currently working on [YaniPay - AI-powered and Crypto-friendly](http://yanipel.re)
+* 🖥️  See my portfolio at [My resume](https://johanlepinay.fr)
+* ✉️  You can contact me at [contact@yanipel.com](mailto:contact@yanipel.re)
+* 🚀  I'm currently working on [YaniPay - AI-powered and Crypto-friendly](https://yanipay.com)
 * 🧠  I'm learning React JS and Native, Tailwindcss, TypeScript and Javascript, Swift UI and Solidty
 * 🤝  I'm open to collaborating on My personal project (YaniPay)
 * ⚡  Stay Hungry, Keep Pushing!
@@ -22,7 +22,6 @@ src="https://img.shields.io/twitter/follow/lepic974?logo=twitter&style=for-the-b
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
