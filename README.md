@@ -8,7 +8,7 @@ I've been learning software code for 3 years, after switching my career from har
 
 * 🌍  I'm based in Réunion island
 * 🖥️  See my portfolio at [My resume](https://johanlepinay.fr)
-* ✉️  You can contact me at [contact@yanipel.com](mailto:contact@yanipel.re)
+* ✉️  You can contact me at [contact@yanipel.re](mailto:contact@yanipel.re)
 * 🚀  I'm currently working on [YaniPay - AI-powered and Crypto-friendly](https://yanipay.com)
 * 🧠  I'm learning React JS and Native, Tailwindcss, TypeScript and Javascript, Swift UI and Solidty
 * 🤝  I'm open to collaborating on My personal project (YaniPay)
